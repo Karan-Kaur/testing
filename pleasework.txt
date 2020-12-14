@@ -1,2 +1,7 @@
+Please work right now<<<<<<< HEAD
 Please work right now or i shall cry
 
+=======
+Please work
+Sian was here
+>>>>>>> 3d1dd989f03fa1df5380d0debd4ac800ddfdc958
